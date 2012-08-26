@@ -71,6 +71,7 @@
         <item>TORCH</item>
         <item>SYNC</item>
         <item>SWAGGER</item>
+        <item>TRIP_MODE</item>
     </string-array>
     <string-array name="available_toggles_values">
         <item>@string/toggle_auto_rotate</item>
@@ -83,6 +84,7 @@
         <item>@string/toggle_torch</item>
         <item>@string/toggle_sync</item>
         <item>@string/toggle_swagger</item>
+        <item>@string/toggle_trip_mode</item>
     </string-array>
 
     <!-- Brightness slider -->
