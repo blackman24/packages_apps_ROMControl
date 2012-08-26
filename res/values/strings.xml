@@ -143,7 +143,7 @@
     <string name="toggle_nfc">NFC</string>
     <string name="toggle_silent">Silent</string>
     <string name="toggle_swagger">Swagger</string>
-    <string name="toggle_swagger">Trip Mode</string>
+    <string name="toggle_trip_mode">Trip Mode</string>
     <string name="toggle_sync">Sync</string>
     <string name="toggle_torch">Torch</string>
     <string name="toggle_2g">2G</string>
@@ -424,8 +424,8 @@
     <string name="saved">mV saved</string>
     <string name="kernel">Kernel Tweaks (if supported)</string>
     <string name="fast_charge_warning">YOU WILL NOT BE ABLE TO CONNECT TO YOUR PC AFTER EACH REBOOT!\n\nThis setting will set fast charge ON after each reboot. While fast charge is on, you can *only* charge your phone!</string>
-    <string name="fast_charge_notification_title">Fast Charge is ON!</string>
-    <string name="fast_charge_notification_message">Phone is in charge-only mode!</string>
+    <string name="fast_charge_notification_title">Trip Mode is ON!</string>
+    <string name="fast_charge_notification_message">Must be Buzz to Function!</string>
     <string name="prefcat_other_tweaks">Other tweaks</string>
 
 </resources>
